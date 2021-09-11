@@ -1,5 +1,5 @@
 package "index"
-import "a.jml"
+import "a1.jml"
 function a(string data) {
    string b "a"
    cmd open ("summon " + data + "~~~")
