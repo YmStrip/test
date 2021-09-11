@@ -1,6 +1,6 @@
 package "index"
 import "github.com/ymstrip/test/index.jml"
 function a(string data) {
-   string b data
+   string b "a"
    cmd open ("summon " + data + "~~~")
 }
