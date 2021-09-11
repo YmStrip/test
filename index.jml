@@ -1,4 +1,4 @@
-package index
+package "index"
 import "github.com/ymstrip/test/index.jml"
 function (string data) {
    string b data
