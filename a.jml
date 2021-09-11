@@ -1,2 +1,3 @@
 function testA(number st){
 }
+package "a"
